@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**aleeshasafia-dotcom/aleeshasafia-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 * About me *
 Hello, my name is Aleesha Safia binti Mohd Iskandar Fahmi. 
