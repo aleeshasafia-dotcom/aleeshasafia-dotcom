@@ -13,21 +13,21 @@ Hello! I'm Aleesha Safia binti Mohd Iskandar Fahmi, a Computer Science student a
 
 I'm passionate about technology, programming, and cybersecurity. I enjoy exploring new concepts, developing my technical abilities, and continuously improving my problem-solving skills.
 
-🎓 Currently studying at Universiti Teknologi Malaysia (UTM).
-💻 Learning Java and C++ programming.
-🔐 Interested in cybersecurity and network security.
-🎨 Enjoy graphic design and creative projects.
-🌱 Always eager to learn and improve my programming skills.
-🛠️ Technical Skills
+-🎓 Currently studying at Universiti Teknologi Malaysia (UTM).
+-💻 Learning Java and C++ programming.
+-🔐 Interested in cybersecurity and network security.
+-🎨 Enjoy graphic design and creative projects.
+-🌱 Always eager to learn and improve my programming skills.
+-🛠️ Technical Skills
 Programming Languages
 
 <p> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> </p>
 
 Other Skills
-🤝 Teamwork and collaboration
-🎨 Graphic design
-🧩 Problem-solving and continuous learning
-🔐 Professional Interests
+-🤝 Teamwork and collaboration
+-🎨 Graphic design
+-🧩 Problem-solving and continuous learning
+-🔐 Professional Interests
 
 I'm particularly interested in exploring the following areas:
 
@@ -37,12 +37,12 @@ Network Security and Traffic Analysis – Exploring network protection, monitori
 
 I'm continuously working towards becoming a more knowledgeable and capable computer science student.
 
-📚 Strengthen my foundation in computer and security fundamentals.
-💻 Improve my programming skills in Java and C++.
-📝 Practice writing clean, structured, and well-documented code.
-🔍 Explore cybersecurity concepts and network security techniques.
-🚀 Build projects that demonstrate my technical knowledge and learning progress.
-📂 Featured Projects
+-📚 Strengthen my foundation in computer and security fundamentals.
+-💻 Improve my programming skills in Java and C++.
+-📝 Practice writing clean, structured, and well-documented code.
+-🔍 Explore cybersecurity concepts and network security techniques.
+-🚀 Build projects that demonstrate my technical knowledge and learning progress.
+-📂 Featured Projects
 
 I'm currently developing my skills through academic and personal learning activities.
 
