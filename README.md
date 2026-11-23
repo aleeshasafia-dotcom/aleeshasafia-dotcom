@@ -3,14 +3,20 @@
 <!--
 **aleeshasafia-dotcom/aleeshasafia-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+* About me *
+Hello, my name is Aleesha Safia binti Mohd Iskandar Fahmi. 
+I'm current pursing my study at UTM ,in course Bachelor of Computer Science (Computer Network and Security) with Honours.
+My goal is to enhance my programming skill .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Skill *
+- Java and C++ programming 
+- Teamwork
+- Graphic design 
+
+* Professional interests *
+- Cybersecurity Risk Management and Compliance.
+- Network Security and Traffic Analysis
+
+* Learning goals *
+- strengthen my foundation in computer and security fundamentals.
+- Practice on well documented code .
